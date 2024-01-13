@@ -12,6 +12,7 @@ public class MethodOverloading {
 	}
 	public static void main(String[] args)
 	{
+		//Ans 1: method overloading using 3 different parameters
 		int a=2;
 		int b=3;
 		int c=4;
