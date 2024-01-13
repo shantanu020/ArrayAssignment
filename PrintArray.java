@@ -12,7 +12,7 @@ public class PrintArray
 
 	public static void main(String[] args)
 	{
-		// Program to print an entire array
+		//Ans 4: Program to print an entire array
 		
 		PrintArray a=new PrintArray();
 		a.print(a.array);
