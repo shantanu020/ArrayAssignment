@@ -10,6 +10,7 @@ public class FanObject {
 	}
 
 	public static void main(String[] args) {
+		//Ans 2: program to creat an object
 		FanObject fan=new FanObject();
 		fan.brand="Orient";
 		fan.no_of_blades=3;
